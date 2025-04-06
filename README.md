@@ -24,7 +24,7 @@ I love learning by doing and solving real-world problems through code. Right now
 ---
 
 ## 💡 Currently Working On
-- Mastering PHP through structured daily learning (2 hours/day)
+- Mastering PHP through structured daily learning
 - Building strong backend logic before diving into frameworks like Laravel
 - Integrating databases and building practical mini-projects
 
