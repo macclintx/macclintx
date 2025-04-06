@@ -1,35 +1,38 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 # 👋 Hey there!
 
-I'm a curious mind exploring the world of web development — currently building my foundation in **PHP**, **MySQL**, **HTML**, and **CSS**.
+I'm a curious mind exploring the world of web development — currently building a solid foundation with **PHP**, **MySQL**, **HTML**, and **CSS**.
 
-I love learning by doing and solving real-world problems through code. Right now, I’m diving deep into PHP — from loops and arrays to real-world applications — all while building up my skills one line at a time.
+Right now, I’m somewhere between the basics and building real stuff — writing code that sometimes breaks, learning why it did, and getting better with every bug fixed. Each line of code brings me a little closer to clarity, and I’m here for the journey.
 
 ---
 
 ## 🛠️ Tech Stack (So Far)
-- 💻 PHP (core logic, forms, arrays, loops — leveling up daily)
-- 🗃️ MySQL (soon diving into databases and data flow)
-- 🌐 HTML & CSS (crafting clean, functional UI)
-- 🔧 Git (version control + GitHub workflow)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌙 About Me
-- 🦉 Late-night coder — I thrive when the world sleeps
-- 🤔 Problem-solver by nature, curious by default
-- 🚗 I unwind with long solo drives and a blend of music, nature, and engine hum
-- 🍺 2 cold beers, scenic views, and silence — my recipe for balance
+## 🌙 A Bit About Me
+- 🦉 Night owl — my best work happens when it’s quiet
+- 🤔 Always exploring, always asking “what if?”
+- 🍺 I recharge with peaceful drives, good music, and two cold beers
+- 💻 Slowly but surely turning curiosity into code
 
 ---
 
-## 💡 Currently Working On
-- Mastering PHP through structured daily learning
-- Building strong backend logic before diving into frameworks like Laravel
-- Integrating databases and building practical mini-projects
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="49%"/>
+</p>
 
 ---
 
-> _“Code is like a puzzle — each line brings you closer to the bigger picture.”_
+> _“Progress isn’t always loud — sometimes it’s quiet, steady, and just yours to know.”_
 
-Thanks for stopping by! 🌟
+Thanks for dropping by 👨‍💻
+
