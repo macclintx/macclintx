@@ -26,16 +26,14 @@ Right now, I’m somewhere between the basics and building real stuff — writin
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macclintx&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=macclintx&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=macclintx&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macclintx&theme=radical" width="49%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=macclintx&theme=tokyo-night" />
-</p>
 ---
 
 > _“Progress isn’t always loud — sometimes it’s quiet, steady, and just yours to know.”_
 
 Thanks for dropping by 👨‍💻
+
 
