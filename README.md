@@ -3,7 +3,7 @@
 
 I'm a curious mind exploring the world of web development — currently building a solid foundation with **PHP**, **MySQL**, **HTML**, and **CSS**.
 
-Right now, I’m somewhere between the basics and building real stuff — writing code that sometimes breaks, learning why it did, and getting better with every bug fixed. Each line of code brings me a little closer to clarity, and I’m here for the journey.
+Right now, I’m building real stuff — writing code that sometimes breaks, learning why it did, and getting better with every bug fixed. Each line of code brings me a little closer to clarity, and I’m here for the journey.
 
 ---
 
